@@ -1,0 +1,11 @@
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\obj\Debug\Demo Validations.csproj.AssemblyReference.cache
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\obj\Debug\Demo Validations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\obj\Debug\Demo_Validations.Form1.resources
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\obj\Debug\Demo_Validations.Properties.Resources.resources
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\obj\Debug\Demo Validations.csproj.GenerateResource.cache
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\obj\Debug\Demo Validations.csproj.CoreCompileInputs.cache
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\bin\Debug\Demo Validations.exe.config
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\bin\Debug\Demo Validations.exe
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\bin\Debug\Demo Validations.pdb
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\obj\Debug\Demo Validations.exe
+C:\Users\Sherii\source\repos\Demo Validations\Demo Validations\obj\Debug\Demo Validations.pdb
